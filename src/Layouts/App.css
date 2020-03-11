@@ -2,3 +2,10 @@
     margin: 0;
     padding: 0;
 }
+
+img.headerImage {
+    background: center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

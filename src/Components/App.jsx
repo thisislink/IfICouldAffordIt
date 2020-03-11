@@ -14,7 +14,8 @@ class App extends React.Component {
         return (
             <React.Fragment>
                 <Navigation />
-                <HeaderMain />
+                
+                <HeaderMain className="headerImage" />
                 <Grid
                     container
                     spacing={10}
